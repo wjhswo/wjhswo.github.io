@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wang Jinghan / Site Title"
+title                    : "Wang Jinghan's homepage"
 title_separator          : "-"
 name                     : &name "Wang Jinghan"
 description              : &description "coding"
